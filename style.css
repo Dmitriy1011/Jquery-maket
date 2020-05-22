@@ -1,0 +1,469 @@
+.first-container {
+    width:1440px;
+    height:99px;
+    border: 1px solid black;
+    background-color: #FFFFFF;
+    margin:auto;
+    display:flex;
+    position:relative;
+}
+
+.logotype {
+    position:absolute;
+    width:157px;
+    height:55px;
+    left:11px;
+    top:22px;
+}
+
+.list1 {
+    display:flex;
+    justify-content: space-between;
+    width:400px;
+    margin-left:470px;
+    margin-top:30px;
+    list-style: none;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+
+.socNets {
+    position: absolute;
+    width:214px;
+    height:72px;
+    right:25px;
+    top:10px;
+}
+
+.second-container {
+    width:1440px;
+    height:1024px;
+    border:1px solid black;
+    margin:auto;
+    margin-top:50px;
+}
+
+.elem1 {
+    width:1331px;
+    height:108px;
+    margin-left: 54px;
+    margin-top:91px;
+    font-size:70px;
+    line-height: 82px;
+    font-weight: normal;
+    font-style: normal;
+    font-family: sans-serif;
+}
+
+.desk2Main {
+    display:flex;
+    position: relative;
+}
+
+.desk2Img {
+    width: 761px;
+    height:672px;
+    margin-left:54px;
+    margin-top:65px;
+    /*background-image: url('images/desk2.png');
+    background-size: cover; */
+}
+
+.textBtnCont {
+    height: 685px;
+    width:570px;
+    margin-top:50px;
+}
+
+.btnCont {
+    width:100%;
+    height:70px;
+    display: flex;
+
+}
+
+.btn1, .btn2, .btn3 {
+    width:163px;
+    height:69px;
+    font-size: 35px;
+    font-weight: 500;
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.5);
+    border:0.5px solid black;
+    margin-left:20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.textCont {
+    width:531px;
+    height:578px;
+    border: 1px solid #000000;
+    margin-left:20px;
+    margin-top:30px;
+    box-sizing: border-box;
+    font-size: 19px;
+}
+
+.desktop3 {
+    width:1440px;
+    height:1024px;
+    border: 1px solid black;
+    margin:auto;
+    margin-top: 50px;
+    position:relative;
+    overflow: hidden;
+}
+
+.projects {
+    width:1331px;
+    height: 108px;
+    margin-left: 54px;
+    margin-top:65px;
+    font-size: 70px;
+    line-height: 82px;
+    font-family: sans-serif;
+}
+
+.projectInc {
+    width:1028px;
+    height:677px;
+    margin-left:209px;
+    margin-top:55px;
+    border: 1px solid black;
+    box-sizing: border-box;
+    display: flex;
+    
+}
+
+.projectInc2 {
+    width:1028px;
+    height:677px;
+    margin-left:209px;
+    margin-top:55px;
+    border: 1px solid black;
+    box-sizing: border-box;
+    display: flex;
+    
+}
+
+.projectInc3 {
+    width:1028px;
+    height:677px;
+    margin-left:209px;
+    margin-top:55px;
+    border: 1px solid black;
+    box-sizing: border-box;
+    display: flex;
+    
+}
+
+.projectIncTitle {
+    width:358px;
+    height:108px;
+    margin-left:58px;
+    margin-top:20px;
+    font-size: 70px;
+    line-height: 82px;
+    font-weight: 500;
+    font-family: sans-serif;
+}
+
+.projectImages {
+    width:450px;
+    height:600px;
+    text-align: center;
+    margin-top:30px;
+}
+
+.projectImg1 {
+    width:326px;
+    height: 181px;
+    margin-top:15px;
+}
+
+.projectImg2 {
+    width:326px;
+    height: 181px;
+    margin-top:30px;
+}
+
+.projectText {
+    width:578px;
+    height:677px;
+    padding-top:170px;
+}
+
+.desktop4 {
+    width:1440px;
+    height:787px;
+    background-color: #8F81E3;
+    margin:auto;
+    margin-top:50px;
+}
+
+.contactsText {
+    width:1331px;
+    height:108px;
+    margin-left:54px;
+    padding-top:55px;
+    font-size: 70px;
+    line-height: 82px;
+    font-family: sans-serif;
+    color: white;
+
+}
+
+.contacts {
+    width:1330px;
+    height:600px;
+    margin-left:55px;
+    margin-top:20px;
+    display: flex;
+    
+}
+
+.frame {
+    width: 628px;
+    height: 503px;
+    
+    box-sizing: border-box;
+}
+
+.contTextBtn {
+    width:700px;
+    height:503px;
+}
+
+.contTextBtnText {
+    width: 597px;
+    height: 337px;
+    margin-left: 50px;
+}
+
+.contTextBtnText1 {
+    font-size: 40px;
+    line-height: 210.7%;
+    color:white;
+    font-family: sans-serif;
+}
+
+.contTextBtnText2 {
+    font-size: 40px;
+    line-height: 210.7%;
+    color:white;
+    font-family: sans-serif;
+}
+
+.contTextBtnText3 {
+    font-size: 40px;
+    line-height: 210.7%;
+    color:white;
+    font-family: sans-serif;
+}
+
+.contTextBtnText4 {
+    font-size: 40px;
+    line-height: 210.7%;
+    color:white;
+    font-family: sans-serif;
+}
+
+.btnOrderCall {
+    width: 586px;
+    height:115px;
+    background-color: #FF5F5F;
+    font-size:50px;
+    text-align: center;
+    line-height: 210.7%;
+    font-family: sans-serif;
+    margin-top: 50px;
+    margin-left:55px;
+    cursor: pointer;
+}
+
+.desktop5 {
+    width: 1302px;
+    height: 675px;
+    margin-left: 69px;
+    margin-top: 56px;
+    border: 2px solid black;
+    margin:auto;
+    position: absolute;
+    bottom:70px;
+    left:600px;
+    position:fixed;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.mailContainer {
+    width: 457px;
+    height: 125px;
+    font-size: 30px;
+    margin:auto;
+    margin-top:50px;
+    font-family: sans-serif;
+    padding-left:140px;
+}
+
+.yourMail {
+    display: block;
+    width:400px;
+    height:45px;
+    font-size: 30px;
+    margin-top:10px;
+}
+
+.phoneContainer {
+    width: 457px;
+    height: 125px;
+    font-size: 30px;
+    margin:auto;
+    font-family: sans-serif;
+    padding-left:140px;
+}
+
+.yourPhone {
+    display: block;
+    width:400px;
+    height:45px;
+    font-size: 30px;
+    margin-top:10px;
+}
+
+.description {
+    width: 457px;
+    height: 230px;
+    font-size: 30px;
+    margin:auto;
+    font-family: sans-serif;
+    padding-left:140px;
+}
+
+.yourDescr {
+    display: block;
+    width:400px;
+    height:150px;
+    font-size: 30px;
+    margin-top:10px;
+}
+
+.sendInfo {
+    width: 399px;
+    height: 59px;
+    background-color:  #14BB1B;
+    font-size: 35px;
+    line-height: 210.7%;
+    margin-left:495px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.points {
+    width:300px;
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    position: absolute;
+    left:50%;
+    transform: translateX(-50%);
+    bottom:20px;
+}
+
+.points li {
+    border-radius: 50%;
+    margin: 0 10px;
+    width:30px;
+    height:30px;
+    background-color: darkred;
+    list-style: none;
+    cursor: pointer;
+
+}
+
+.point1 {
+    width:50px;
+    height:50px;
+    background-color: royalblue;
+    border:1px solid black;
+    border-radius: 50%;
+}
+
+.point2 {
+    width:50px;
+    height:50px;
+    background-color: royalblue;
+    border:1px solid black;
+    border-radius: 50%;
+}
+
+.point3 {
+    width:50px;
+    height:50px;
+    background-color: royalblue;
+    border:1px solid black;
+    border-radius: 50%;
+}
+
+.scrollCont {
+    position: absolute;
+    bottom:50%;
+    width:170px;
+    height:350px;
+    bottom:50%;
+    transform: translateY(50%)
+}
+
+.scrollLine {
+    width:150px;
+    height:5px;
+    background-color: black;
+    position: absolute;
+    top:200px;
+    transform: rotate(45deg);
+}
+
+.scrollLine2 {
+    width:150px;
+    height:5px;
+    background-color: black;
+    display: block;
+    position: absolute;
+    top:95px;
+    transform: rotate(-45deg);
+}
+
+
+
+.scrollCont2 {
+    position: absolute;
+    bottom:50%;
+    width:170px;
+    height:350px;
+    right:0;
+    bottom:50%;
+    transform: translateY(50%);
+}
+
+.scrollLine3 {
+    width:150px;
+    height:5px;
+    background-color: black;
+    position: absolute;
+    top:200px;
+    transform: rotate(-45deg);
+}
+
+.scrollLine4 {
+    width:150px;
+    height:5px;
+    background-color: black;
+    display: block;
+    position: absolute;
+    top:95px;
+    transform: rotate(45deg);
+}
+
+
+
